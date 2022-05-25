@@ -20,3 +20,16 @@ header a {
     display: flex;
     margin: auto;
 }
+
+#prvi{
+    text-align: center;
+    color: white;
+    font-weight: 300px;
+    font-size: 42px;
+}
+
+#drugi{
+    text-align: center;
+    color: gray;
+    font-size: 21px;
+}
