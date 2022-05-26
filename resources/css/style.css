@@ -21,7 +21,7 @@ header a {
     margin: auto;
 }
 
-#prvi{
+.prvi{
     text-align: center;
     color: white;
     font-weight: 300px;
@@ -32,4 +32,31 @@ header a {
     text-align: center;
     color: gray;
     font-size: 21px;
+}
+
+.travel-guide img{
+    display: flex;
+    margin: auto;
+}
+
+.logo{
+    text-align: center;
+}
+
+
+.logo img{
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.logo a{
+    font-size: 16px;
+    color: aquamarine
+}
+
+.trademark{
+    text-align: right;
+    color: gray;
+    margin-top: 50px;
 }
